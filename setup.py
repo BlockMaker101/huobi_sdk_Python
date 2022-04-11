@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="huobipy",
     version="1.0.1",
-    author="adlong",
-    author_email="3140618@163.com",
+    author="blockmaker",
+    author_email="",
     description="huobi api sdk",
     long_description=long_description,
     long_description_content_type="text/markdown",
